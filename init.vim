@@ -13,3 +13,4 @@ set clipboard+=unnamedplus
 cnoreabbrev t term
 cnoreabbrev ex Ex
 colorscheme vim
+set noswapfile
