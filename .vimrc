@@ -13,5 +13,5 @@ set clipboard+=unnamedplus
 cnoreabbrev t term
 cnoreabbrev ex Ex
 colorscheme default
-set colorcolumn=80
+" set colorcolumn=80
 set bg=dark
