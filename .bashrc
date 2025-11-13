@@ -3,8 +3,10 @@
 
 PS1='\W % '
 
-alias ll='ls -lah'
-alias lt='ls -t'
+alias ll='ls -lahF'
+alias lt='ls -tF'
+alias llt='ls -lahtF'
+alias lz='ls -lahSF'
 alias v='vim'
 alias n='nvim'
 alias fastfetch='fastfetch -c all'
