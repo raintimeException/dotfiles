@@ -14,3 +14,4 @@ cnoreabbrev t term
 cnoreabbrev ex Ex
 colorscheme vim
 set noswapfile
+set guicursor=a:ver1
