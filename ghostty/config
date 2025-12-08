@@ -5,3 +5,7 @@ foreground = "#FFFFFF"
 working-directory = home
 split-divider-color = "#880000"
 unfocused-split-fill = "#880000"
+keybind = ctrl+j=goto_split:down
+keybind = ctrl+k=goto_split:up
+keybind = ctrl+h=goto_split:left
+keybind = ctrl+l=goto_split:right
