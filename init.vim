@@ -1,6 +1,5 @@
 syntax on
 set number relativenumber
-set scrolloff=999
 set tabstop=4
 set shiftwidth=4
 set autoindent
@@ -15,3 +14,5 @@ cnoreabbrev ex Ex
 colorscheme vim
 set noswapfile
 set guicursor=a:ver1
+nn j jzz
+nn k kzz
