@@ -1,0 +1,7 @@
+font-family = "Iosevka Fixed"
+font-size = 18
+background = "#000000"
+foreground = "#FFFFFF"
+working-directory = home
+split-divider-color = "#880000"
+unfocused-split-fill = "#880000"
