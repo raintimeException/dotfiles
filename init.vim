@@ -1,5 +1,6 @@
 syntax on
-set number relativenumber
+set notermguicolors
+" set number relativenumber
 set tabstop=4
 set shiftwidth=4
 set autoindent
@@ -16,3 +17,5 @@ set noswapfile
 set guicursor=a:ver1
 nn j jzz
 nn k kzz
+set mousescroll=ver:1,hor:1
+set splitright
