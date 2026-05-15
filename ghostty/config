@@ -1,11 +1,25 @@
+# font-family = "Iosevka Fixed Light"
 font-family = "Iosevka Fixed"
 font-size = 18
-background = "#000000"
-foreground = "#FFFFFF"
 working-directory = home
-split-divider-color = "#880000"
-unfocused-split-fill = "#880000"
+split-divider-color = "#550000"
+unfocused-split-fill = "#AAAAAA"
+unfocused-split-opacity = 0.8
+keybind = ctrl+s=new_split:down
 keybind = ctrl+j=goto_split:down
 keybind = ctrl+k=goto_split:up
 keybind = ctrl+h=goto_split:left
 keybind = ctrl+l=goto_split:right
+cursor-style = bar
+cursor-style-blink = true
+shell-integration-features = no-cursor
+mouse-scroll-multiplier=5
+
+#foreground= "#000000"
+#background= "#FFFFFF"
+
+foreground= "#FFFFFF"
+background= "#000000"
+
+window-height = 30
+window-width =  100
